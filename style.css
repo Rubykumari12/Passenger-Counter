@@ -1,0 +1,31 @@
+#increment-btn{
+    background-color: darkred;
+    /* padding-right: 15px;
+    padding-left: 15px; */
+
+}
+
+body{
+    text-align: center;
+    background-image: url("snow.jpg");
+    background-size:cover ;
+}
+
+#save-btn{
+    background-color: green;
+    margin-top: 5px;
+}
+
+button{
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    border-color: black;
+}
+
+p{
+    font-weight: bold;
+    font-size: x-large;
+}
